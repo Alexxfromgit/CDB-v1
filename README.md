@@ -1,2 +1,3 @@
 # CDB-v1
-C# SQL
+Programm for working with SQL Databases. Create tables. Change and modify so..
+Used bunifu Framework trial
