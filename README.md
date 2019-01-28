@@ -1,3 +1,5 @@
 # CDB-v1.0
-Programm for working with SQL Databases. Create tables. Change and modify so..
-Used bunifu Framework trial
+
+Program for working with SQL Databases. Supported CRUD operations.
+
+Used bunifu Framework trial inside.
